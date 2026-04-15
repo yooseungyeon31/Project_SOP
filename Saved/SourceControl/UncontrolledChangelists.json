@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/Project_SOP/Content/Blueprints/Item/BP_GasMask.uasset",
+				"C:/Unreal/Project_SOP/Content/Blueprints/BP_Interactable_Base.uasset",
+				"C:/Unreal/Project_SOP/Content/Blueprints/Item/BP_MainValve.uasset",
+				"C:/Unreal/Project_SOP/Content/Blueprints/BP_StepManager.uasset"
+			]
+		}
+	]
+}
