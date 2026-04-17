@@ -1,6 +1,6 @@
-2026/04/16-15:31:47.612 2824 Reusing MANIFEST C:\Work\Project_SOP\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/16-15:31:47.618 2824 Recovering log #3
-2026/04/16-15:31:47.620 2824 Reusing old log C:\Work\Project_SOP\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-2026/04/16-17:43:38.321 2c10 Level-0 table #5: started
-2026/04/16-17:43:38.332 2c10 Level-0 table #5: 81170 bytes OK
-2026/04/16-17:43:38.334 2c10 Delete type=0 #3
+2026/04/17-17:35:07.855 3d08 Reusing MANIFEST C:\Work\Project_SOP\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/17-17:35:07.869 3d08 Recovering log #4
+2026/04/17-17:35:07.870 3d08 Reusing old log C:\Work\Project_SOP\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/04/17-17:37:14.929 3d08 Level-0 table #8: started
+2026/04/17-17:37:14.934 3d08 Level-0 table #8: 76791 bytes OK
+2026/04/17-17:37:14.936 3d08 Delete type=0 #4
