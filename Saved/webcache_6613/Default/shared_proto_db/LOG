@@ -1,2 +1,3 @@
-2026/04/15-20:27:08.688 91a4 Creating DB C:\Unreal\Project_SOP\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/04/15-20:27:08.706 91a4 Reusing MANIFEST C:\Unreal\Project_SOP\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/04/30-14:02:51.022 d34 Reusing MANIFEST C:\Work\Project_SOP\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/04/30-14:02:51.022 d34 Recovering log #3
+2026/04/30-14:02:51.023 d34 Reusing old log C:\Work\Project_SOP\Saved\webcache_6613\Default\shared_proto_db/000003.log 
