@@ -1,6 +1,0 @@
-2026/05/03-11:46:23.509 990c Reusing MANIFEST C:\Project_SOP\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/03-11:46:23.518 990c Recovering log #3
-2026/05/03-11:46:23.523 990c Reusing old log C:\Project_SOP\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-2026/05/03-13:59:36.879 990c Level-0 table #5: started
-2026/05/03-13:59:36.895 990c Level-0 table #5: 67958 bytes OK
-2026/05/03-13:59:36.900 990c Delete type=0 #3
